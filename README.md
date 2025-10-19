@@ -1,2 +1,2 @@
-# Django_Crud_Relations_Authentication_Documentation
+# Django_Crud_Operations_Authentication_Documentation
 complete authentication system_requirements. and Crud_Relations Django
